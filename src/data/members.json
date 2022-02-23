@@ -1,12 +1,7 @@
 [
     {
-        "title": "Kuhaku Neko / Dimitris Kostadimas",
-        "url": "https://kuhakuneko.github.io/",
-        "feed": "https://kuhakuneko.github.io/online-cv/"
-    },
-    {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
+        "title": "KuhakuNeko/Dimitris Kostadimas",
+        "url": "https://kuhakuneko.github.io/online-cv/",
+        "feed": ""
     }
 ]
