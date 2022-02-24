@@ -16,3 +16,5 @@ Things that will get you out:
 - Attempting to ruin the collab spirit with intrigues and so on...
 - Long period of inactivity
 - Copying without source
+
+# [Return to the Webring's Home Page](https://git-team-epic-webring.netlify.app/)
