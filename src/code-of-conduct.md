@@ -5,6 +5,14 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-Rules for being in this webring.
+Rules for being epic.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+- Be nice to your colleagues
+- Be active and contribute to the whole thing
+- Get to codding and dont be afraid to ask for help
+- Dont be negative. We will get through it somehow...
+
+Things that will get you out:
+- Attempting to ruin the collab spirit with intrigues and so on...
+- Long period of inactivity
+- Copying without source
